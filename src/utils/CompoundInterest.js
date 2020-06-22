@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 export default function CompoundInterest(initialValue, monthlyInterest, monthQuantity) {
 
@@ -22,7 +22,13 @@ export default function CompoundInterest(initialValue, monthlyInterest, monthQua
         percentageIncreased = Math.ceil((valueIncreased / initialValue) * 10000) / 100;
         console.log(percentageIncreased);
 
-        jsonMonthValues.push({ id, monthValue, valueIncreased, percentageIncreased });
+        jsonMonthValues.push(
+            { 
+                id, 
+                monthValue, 
+                valueIncreased, 
+                percentageIncreased 
+            });
     }
     return jsonMonthValues;
 }
