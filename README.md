@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Practical Challenge - module 3
+
+Practical challange from IGTI's 2020 Fullstack Bootcamp.
+
+## Objective
+
+To practice React knowledge acquired during Module 3 classes.
+
+## About the project
+
+```
+The aplication calculates your profit based on your initial amount, compound interest(per month) and duration (in months). 
+```
+
+The main purpose is to display the profit/month.
+
+Each month presents the amount of money in that month, the value gained and the percentage gained since the first month.
+
 ## Available Scripts
 
 In the project directory, you can run:
