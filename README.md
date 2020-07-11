@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Practical Challenge - module 3
 
-Practical challange from IGTI's 2020 Fullstack Bootcamp.
+Practical challenge from IGTI's 2020 Fullstack Bootcamp.
 
 ## Objective
 
